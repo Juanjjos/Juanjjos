@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=juanjjos&label=Profile%20views&color=0e75b6&style=flat" alt="juanjjos" /> 
 </p>
 
-- 🔭 I’m currently working on **CORE-UTP**
+- 🔭 I’m currently working on **Personal Projects**
 - 🌱 I’m currently learning **Java**
 - 👯 I’m looking to collaborate on **open source projects**
 
