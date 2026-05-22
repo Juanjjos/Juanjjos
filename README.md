@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuanjjos&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true" alt="juanjjos" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuanjjos&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true" alt="Juanjjos" />
 </p>
 
 - 🔭 I’m currently working on **Personal Projects**
